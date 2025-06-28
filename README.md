@@ -19,14 +19,13 @@ Este é um projeto simples de front-end desenvolvido para o módulo final de Rea
 - LocalStorage
 
 ## 📂 Estrutura de Pastas
-
-src/
-├── hooks/ # Hooks personalizados (ex: favoritos)
-├── pages/ # Páginas principais (Home, Detalhes)
-├── utils/ # Dados mockados
-├── App.tsx # Roteamento
-├── main.tsx # Entrada do projeto
-└── index.css # Estilização global
+- src/
+- ├── hooks/ # Hooks personalizados (ex: favoritos)
+- ├── pages/ # Páginas principais (Home, Detalhes)
+- ├── utils/ # Dados mockados
+- ├── App.tsx # Roteamento
+- ├── main.tsx # Entrada do projeto
+- └── index.css # Estilização global
 
 
 ## ▶️ Como rodar o projeto
