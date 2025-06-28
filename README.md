@@ -20,3 +20,23 @@ Este é um projeto simples de front-end desenvolvido para o módulo final de Rea
 
 ## 📂 Estrutura de Pastas
 
+src/
+├── hooks/ # Hooks personalizados (ex: favoritos)
+├── pages/ # Páginas principais (Home, Detalhes)
+├── utils/ # Dados mockados
+├── App.tsx # Roteamento
+├── main.tsx # Entrada do projeto
+└── index.css # Estilização global
+
+
+## ▶️ Como rodar o projeto
+
+```bash
+# Instale as dependências
+npm install
+
+# Rode o servidor de desenvolvimento
+npm run dev
+
+
+
